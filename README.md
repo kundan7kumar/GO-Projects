@@ -15,3 +15,6 @@ We can then execute the built binary directly.
 
 $ ./hello-world
 hello world
+
+#Credits
+#https://gobyexample.com/
